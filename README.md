@@ -1,1 +1,1 @@
-# image_tracing
+# Face Detection using OpenCV
